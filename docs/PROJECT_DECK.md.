@@ -1,0 +1,99 @@
+# 📑 Prototype Deck – LexiGen AI
+
+---
+
+## 🎯 Slide 1 – Title Slide
+- **Project Name**: LexiGen AI  
+- **Tagline**: *Democratizing Legal Knowledge with AI*  
+- **Hackathon**: Gen AI Exchange Hackathon  
+- **Team**: [Your Name(s)]
+
+---
+
+## ⚖️ Slide 2 – The Problem
+- Legal language is **complex, costly, and inaccessible**.  
+- Millions of people struggle with:  
+  - Understanding contracts & laws  
+  - High legal consultation costs  
+  - Lack of transparency in access to justice  
+
+---
+
+## 💡 Slide 3 – The Solution
+- **LexiGen AI** → An AI-powered legal assistant that:  
+  - Simplifies laws, contracts, and legal jargon into plain language.  
+  - Provides summaries, Q&A, and insights in seconds.  
+  - Accessible via web & mobile platforms.  
+
+---
+
+## 🚀 Slide 4 – Key Features
+1. **Document Upload & Parsing** 📄  
+   - Upload PDF/DOC → extract legal text.  
+2. **AI Legal Summarizer** 🤖  
+   - Simplify into plain English.  
+3. **Q&A Support** 💬  
+   - Ask questions about the document → AI answers.  
+
+✅ These cover the *“at least 2–3 functional features”* requirement.  
+
+---
+
+## ☁️ Slide 5 – Why Google Cloud AI? (Technical Merit 40%)
+- **Vertex AI** → train/fine-tune legal language models.  
+- **Document AI** → extract structured data from contracts.  
+- **PaLM API** → plain-language explanation + Q&A.  
+- **Cloud Run / Firebase** → scalable, serverless deployment.  
+
+---
+
+## 🎨 Slide 6 – User Experience (10%)
+- **Clean & simple UI** → Upload → Summary → Q&A.  
+- **Multi-device support** (web + mobile).  
+- **Accessible language** → easy for non-lawyers.  
+
+---
+
+## 🌍 Slide 7 – Alignment with Cause (15%)
+- Theme: *Legal Empowerment / Access to Justice*.  
+- Positive impact:  
+  - Citizens → understand their rights.  
+  - Startups/SMEs → affordable contract analysis.  
+  - NGOs → accessible law education.  
+
+---
+
+## 🔥 Slide 8 – Innovation & Creativity (20%)
+- First-of-its-kind **AI Legal Simplifier**.  
+- Combines **AI + LegalTech** for accessibility.  
+- Potential to disrupt **legal consultation & compliance**.  
+
+---
+
+## 📈 Slide 9 – Market Feasibility (15%)
+- **Global LegalTech market** → $30B+ by 2030.  
+- Target Users:  
+  - Individuals (B2C).  
+  - Startups/SMEs (B2B SaaS).  
+- Roadmap: multilingual, voice AI, API for law firms.  
+
+---
+
+## 🖥️ Slide 10 – Prototype Demo
+- Screenshots / mockups:  
+  - Upload document.  
+  - Summary generated.  
+  - Q&A interaction.  
+- [Prototype Link Here]  
+
+---
+
+## 🗺️ Slide 11 – Roadmap
+- ✅ Current prototype (basic features).  
+- 🔜 Voice support + multilingual.  
+- 🔜 Integration with govt. portals.  
+- 🚀 Full SaaS launch.  
+
+---
+
+
