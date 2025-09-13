@@ -2,7 +2,8 @@
 
 > *Making law simple, accessible & actionable for everyone*  
 
----
+--- 
+
 
 ## 📌 Part 1: Problem Statement (Extended)
 
@@ -191,6 +192,18 @@ Example:
 - Helps visually impaired people.  
 - Useful for **low literacy populations**.  
 - Example: A farmer in rural Bihar can **listen to his land agreement** in Bhojpuri, in plain words.  
+
+---
+
+## 🎥 Demo
+
+### 🔗 Live Prototype
+👉 [Try the Demo Here](https://www.blackbox.ai/share/dc1ae3fb-5675-4af8-a726-42ff3e0237de?fullScreen=true)
+
+### ✅ Features Shown in Demo
+- Upload contracts or legal policies (PDF/DOC).  
+- AI generates plain-language summaries instantly.  
+- Interactive Q&A → ask questions and get answers from AI.
 
 ---
 
