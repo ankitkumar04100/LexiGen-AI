@@ -6,7 +6,7 @@
 - **Project Name**: LexiGen AI  
 - **Tagline**: *Democratizing Legal Knowledge with AI*  
 - **Hackathon**: Gen AI Exchange Hackathon  
-- **Team**: [Your Name(s)]
+- **Team**: Ankit Kumar
 
 ---
 
@@ -84,7 +84,7 @@
   - Upload document.  
   - Summary generated.  
   - Q&A interaction.  
-- [Prototype Link Here]  
+- [https://www.blackbox.ai/share/dc1ae3fb-5675-4af8-a726-42ff3e0237de?fullScreen=true]  
 
 ---
 
