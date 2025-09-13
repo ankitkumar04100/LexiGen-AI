@@ -806,19 +806,10 @@ Here are measurable outcomes:
 - <3 sec response time
 - 99.9% uptime SLA for enterprise users  
 
----
-
-### 📊 Hackathon-Specific Impact
-- MVP demo works with real legal text
-- Judges see **direct real-world applicability**
-- Clear plan for **scaling & sustainability**
 
 ---
 
 # 📌 Part 33: Team Roles  
-
-Even if you’re a solo developer, you need to **showcase a strong team structure** for hackathon judges.  
-
 ---
 
 ### 👨‍💻 AI & Backend Lead
@@ -852,13 +843,6 @@ Even if you’re a solo developer, you need to **showcase a strong team structur
 
 ---
 
-# 📌 Part 34: Judge-Facing Highlights  
-
-This section is **super important**.  
-Judges don’t have much time, so we give them **clear, catchy points**.  
-
----
-
 ### 🚀 Why LexiGen AI is Unique:
 1. **Massive Need** → 90%+ Indians can’t understand legal docs.  
 2. **High Impact** → Access to justice + financial inclusion.  
@@ -867,41 +851,5 @@ Judges don’t have much time, so we give them **clear, catchy points**.
 5. **Scalable** → Govt + NGOs + Enterprises.  
 
 ---
-
-### 🏆 Why This Can Win:
-- First-of-its-kind **multilingual AI legal assistant** in India.  
-- Tackles **real pain point** faced by millions.  
-- Aligns with **Digital India + AI for Good**.  
-- Judges can **see impact immediately** through demo.  
-- Future roadmap → Global expansion.  
-
----
-
-### 🎤 Sample 2-Minute Pitch Script:
-“Most Indians cannot understand legal documents. Contracts, schemes, and policies are written in complex language. This creates inequality and barriers to justice.  
-Our solution, LexiGen AI, simplifies legal documents into plain, local language. It highlights risks, supports voice narration, and works across 15+ languages. With partnerships across government, NGOs, and corporates, this can impact millions of lives. We have a working demo ready today. This is not just a project, but a revolution for legal access in India.”  
-
----
-
-# 📌 Part 35: Hackathon Submission Checklist  
-
-✅ Demo video ready (upload, summarize, Q&A).  
-✅ GitHub repo with README (10,000+ words).  
-✅ Pitch deck uploaded.  
-✅ USP explained (10,000 characters).  
-✅ Solution brief explained (20,000+ words).  
-✅ Judge-facing highlights crafted.  
-
----
-
-# 📌 Part 36: Next Steps After Hackathon  
-
-- Expand prototype → add **voice + translation** fully.  
-- Secure 1–2 NGO/government pilot projects.  
-- Seek CSR & seed funding.  
-- Launch mobile app within 6 months.  
-
----
-
 
 
