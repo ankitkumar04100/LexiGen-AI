@@ -4,6 +4,12 @@
 
 --- 
 
+⏱️ Duration: ~75 sec  
+🎯 Goal: Impress judges with clarity, innovation, and impact.  
+📌 Format: Slide-by-slide breakdown (visuals + narration).  
+🔗 Demo Video Link: [Watch Here](https://www.blackbox.ai/share/4af5b372-bad1-491e-b332-f1110c4c0637?fullScreen=true)
+
+
 
 ## 📌 Part 1: Problem Statement (Extended)
 
