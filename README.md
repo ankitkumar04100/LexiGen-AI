@@ -10,6 +10,12 @@
 🔗 Demo Video Link: [Watch Here](https://www.blackbox.ai/share/4af5b372-bad1-491e-b332-f1110c4c0637?fullScreen=true)
 
 
+## 📸 Project Demo Screenshot
+
+Here’s a quick look at **LexiGen AI** in action:
+
+![LexiGen AI Screenshot](docs/demo_screenshot.png)
+
 
 ## 📌 Part 1: Problem Statement (Extended)
 
