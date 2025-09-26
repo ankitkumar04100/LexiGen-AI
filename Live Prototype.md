@@ -1,6 +1,6 @@
 # ⚖️ LexiGen AI – Simplifying Legal Knowledge with AI
 
-[![Live Prototype](https://img.shields.io/badge/Demo-Live%20Prototype-brightgreen?style=for-the-badge&logo=google-chrome)](https://www.blackbox.ai/share/dc1ae3fb-5675-4af8-a726-42ff3e0237de?fullScreen=true)
+[![Live Prototype](https://img.shields.io/badge/Demo-Live%20Prototype-brightgreen?style=for-the-badge&logo=google-chrome)](https://lexiflow-simplify-understand.lovable.app)
 
 > **LexiGen AI** is an AI-powered legal simplification platform built for the **Gen AI Exchange Hackathon 2025**.  
 > Our mission is to make **complex legal contracts, government policies, and compliance documents simple, affordable, and accessible to all**.
@@ -20,7 +20,7 @@
 
 ## 🚀 Live Prototype  
 👉 Try the working demo here:  
-🔗 [LexiGen AI – Live Prototype](https://www.blackbox.ai/share/dc1ae3fb-5675-4af8-a726-42ff3e0237de?fullScreen=true)  
+🔗 [LexiGen AI – Live Prototype](https://lexiflow-simplify-understand.lovable.app)  
 
 At this stage, the prototype demonstrates **2–3 core functional features** required for hackathon submission.  
 
