@@ -203,7 +203,7 @@ Example:
 ## 🎥 Demo
 
 ### 🔗 Live Prototype
-👉 [Try the Demo Here](https://www.blackbox.ai/share/dc1ae3fb-5675-4af8-a726-42ff3e0237de?fullScreen=true)
+👉 [Try the Demo Here](https://lexiflow-simplify-understand.lovable.app)
 
 ### ✅ Features Shown in Demo
 - Upload contracts or legal policies (PDF/DOC).  
